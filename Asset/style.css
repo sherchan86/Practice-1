@@ -1,0 +1,10 @@
+. profile {
+    width: 10px;
+    height: 20px;
+  }
+  
+  h1 {
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+  }
